@@ -1,0 +1,1 @@
+Based on the design structure of your selected database tables, this program creates a C# class file and auxiliary files to create MSSQL store procedures and Html WebForms required in C# programming projects.
